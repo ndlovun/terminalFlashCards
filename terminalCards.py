@@ -97,7 +97,7 @@ def makeFlashCard():
 
 
 print('**************************************')
-print('Welcome to AnkiClone')
+print('Welcome to Terminal Flash Cards')
 print('**************************************')
 print('Enter number to select the option.\n')
 userSelection = getInput()
